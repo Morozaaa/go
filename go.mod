@@ -1,3 +1,3 @@
-module github.com/Morozaa/yourpackage
+module github.com/Morozaa/go
 
 go 1.24
